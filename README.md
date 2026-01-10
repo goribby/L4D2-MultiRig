@@ -1,5 +1,5 @@
 # Download
-1. Download the .blend from the latest release on the [Releases](https://github.com/goribby/L4D2-MultiRig/releases) page.
+1. Download the .blend from [Gumroad](https://goribby.gumroad.com/l/l4d2-rig).
 
 2. Open the file.
 
